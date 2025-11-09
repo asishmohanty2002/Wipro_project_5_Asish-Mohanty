@@ -157,6 +157,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 🖼️ GitHub Repository
 
-👉 [https://github.com/your-username/wipro-project-5](https://github.com/your-username/wipro-project-5)
+👉 [https://github.com/asishmohanty2002/Wipro_project_5_Asish-Mohanty](https://github.com/asishmohanty2002/Wipro_project_5_Asish-Mohanty)
 
 ---
