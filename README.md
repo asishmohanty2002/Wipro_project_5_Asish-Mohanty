@@ -160,8 +160,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 👉 [https://github.com/your-username/wipro-project-5](https://github.com/your-username/wipro-project-5)
 
 ---
-
-```
-
-Would you like me to **generate this as a `README.md` file** you can directly upload to your GitHub repo?
-```
